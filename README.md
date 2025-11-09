@@ -1,4 +1,4 @@
-<img width="659" height="538" alt="image" src="https://github.com/user-attachments/assets/0ee904e8-48a8-4c48-8d31-20f4660b39b6" />**Project Overview**
+**Project Overview**
 
 This project, "Enhancing Wind Farm Operational Efficiency Through Power Output Classification Using MLP and Ensemble Models", presents a machine learning–based framework that reframes wind turbine power forecasting from a regression problem into a multi-class classification task.
 By classifying turbine power output into low, medium, and high categories, the study enables actionable insights for maintenance scheduling, underperformance detection, and operational optimization. The framework leverages SCADA (Supervisory Control and Data Acquisition) data from a utility-scale wind farm and evaluates multiple ML models — Logistic Regression (LR), Random Forest (RF), Gradient Boosting (GB), XGBoost, and Multilayer Perceptron (MLP) — to identify the most effective classifier for turbine power level prediction.
